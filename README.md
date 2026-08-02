@@ -1,5 +1,7 @@
 ## Ordn Mash (ordain mthembeni) GitHub
 
+<!-- IMG_E9411.JPG -->
+
 #### I'm currently working on NLP (Natural Language Processing), I'm approaching this with Neural Networks.
 I've very exciting projects under (NLP) you can go through my REPOs and take a look😄
 
