@@ -2,7 +2,7 @@
 
 <!-- IMG_E9411.JPG -->
 <p align="center">
-  <img src="IMG_E9411.JPG" width="800" height="800" alt="tictactoe_Robot">
+  <img src="IMG_E9411.JPG" width="500" height="500" alt="tictactoe_Robot">
 </p>
 
 #### I'm currently working on NLP (Natural Language Processing), I'm approaching this with Neural Networks.
