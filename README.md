@@ -24,8 +24,9 @@ I'd love to communicate with the blocks of NNs, doesn't matter who you're!
 quick send message on my gmail: ordnmash@gamil.com
 or send message on my whatsapp: +27791859943
 
-#### Fun fact is that I'm still 19 and very passionated about Deep Leaning and Neural Networks.
-I'd wish to work on real projects that could benefit people!
+#### Fun fact:
+Is that I'm still 19 and very passionated about Deep Leaning and Neural Networks.
+And I've done many interesting Deep Learning projects which I look at and be satisfied.
 
 <!--
 **Ordnmash/Ordnmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
