@@ -12,7 +12,7 @@ I've very exciting projects under (NLP) you can go through my REPOs and take a l
 It's satisfying to learn this stuff because it reveals how good LLMs could be and how they work in the low levels of its cores.
 
 #### I'm looking to collaborate on an Open Source NLP research or engineering.
-I think it could be so beneficial for upcoming Machine Learning engineers to work on building an Open Source Language Model including myself.
+I think it could be so beneficial for upcoming Machine Learning engineers to work on building an Open Source Language Model, including myself.
 
 #### I'm looking for help with, System deployment.
 It could be so helpful if I could learn how to deploy systems like "Model that relies on local computer processor" and how it could work independently.
