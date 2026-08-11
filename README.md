@@ -18,7 +18,7 @@ I think it could be so beneficial for upcoming Machine Learning engineers to wor
 It could be so helpful if I could learn how to deploy systems like "Model that relies on local computer processor" and how it could work independently.
 
 #### Ask me about (Neural Networks).
-I'd love to communicate with the blocks of NNs, doesn't matter who you're!
+I'd love to communicate with the blocks of Neural Networks, doesn't matter who you're! we'll definitely have a good conversation over this!
 
 #### To Simple reach me:
 quick send message on my gmail: ordnmash@gamil.com
