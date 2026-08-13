@@ -15,7 +15,7 @@ It's satisfying to learn this stuff because it reveals how good LLMs could be an
 I think it could be so beneficial for upcoming Machine Learning engineers to work on building an Open Source Language Model, including myself.
 
 #### I'm looking for help with, System deployment.
-It could be so helpful if I could learn how to deploy systems like "Model that relies on local computer processor" and how it could work independently.
+It could be so helpful if I could learn how to deploy systems like "Model that relies on local computer processor" and how it could work independently, without my local machine modules.
 
 #### Ask me about (Neural Networks).
 I'd love to communicate with the blocks of Neural Networks, doesn't matter who you're! we'll definitely have a good conversation over this!
