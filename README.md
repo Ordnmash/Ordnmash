@@ -9,7 +9,7 @@
 I've very exciting projects under (NLP) you can go through my REPOs and take a look😄
 
 #### I'm currently learning LLMs (Large Language Models), which covers bigger Neural Networks Architectures.
-It's satisfying to learn this stuff because it reveals how good LLMs could be and how they work in the low levels of its cores.
+It's satisfying to learn this stuff because it reveals how good LLMs could be and how they work in the low levels of their cores.
 
 #### I'm looking to collaborate on an Open Source NLP research or engineering.
 I think it could be so beneficial for upcoming Machine Learning engineers to work on building an Open Source Language Model, including myself.
