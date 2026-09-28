@@ -22,7 +22,6 @@ I'd love to communicate with the blocks of Neural Networks, doesn't matter who y
 
 #### To Simple reach me:
 quick send message on my gmail: ordnmash@gamil.com
-or send message on my whatsapp: +27791859943
 
 #### Fun fact:
 Is that I'm still 19 and very passionated about Deep Leaning and Neural Networks.
