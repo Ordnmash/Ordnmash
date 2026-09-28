@@ -11,21 +11,14 @@ I've very exciting projects under (NLP) you can go through my REPOs and take a l
 #### I'm currently learning LLMs (Large Language Models), which covers bigger Neural Networks Architectures.
 It's satisfying to learn this stuff because it reveals how good LLMs could be and how they work in the low levels of their cores.
 
-#### I'm looking to collaborate on an Open Source NLP research or engineering.
+#### I'm open to collaborate on an Open-Source/work NLP research or engineering.
 I think it could be so beneficial for upcoming Machine Learning engineers to work on building an Open Source Language Model, including myself.
-
-#### I'm looking for help with, System deployment.
-It could be so helpful if I could learn how to deploy systems like "Model that relies on local computer processor" and how it could work independently, without my local machine modules.
 
 #### Ask me about (Neural Networks).
 I'd love to communicate with the blocks of Neural Networks, doesn't matter who you're! we'll definitely have a good conversation over this!
 
 #### To Simple reach me:
 quick send message on my gmail: ordnmash@gamil.com
-
-#### Fun fact:
-Is that I'm still 19 and very passionated about Deep Leaning and Neural Networks.
-And I've done many interesting Deep Learning projects which I look at and be satisfied.
 
 <!--
 **Ordnmash/Ordnmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
